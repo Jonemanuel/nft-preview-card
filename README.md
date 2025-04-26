@@ -9,7 +9,7 @@ A proposta foi recriar um card estilizado que exibe uma imagem de NFT com detalh
 Confira o vídeo abaixo com a interação do card (inclui animação de rotação e efeitos de hover):
 
 
-[▶️ Ver vídeo](./image/projetoCard.mp4)
+[▶️ Ver vídeo](./video/projetoCard.mp4)
 
 > 💡 Reproduza esse vídeo localmente para ver o card em ação!
 
@@ -38,6 +38,6 @@ Confira o vídeo abaixo com a interação do card (inclui animação de rotaçã
 │   │   └── icon-clock.svg
 │   │   └── image-avatar.png
 │   └── video/
-│       └── simplescreenrecorder-2024-11-18_20.06.47.mkv
+│       └── ./video/projetoCard.mp4
 └── index.html
 └── README.md
