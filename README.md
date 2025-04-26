@@ -8,7 +8,8 @@ A proposta foi recriar um card estilizado que exibe uma imagem de NFT com detalh
 
 Confira o vídeo abaixo com a interação do card (inclui animação de rotação e efeitos de hover):
 
-📁 `/image/simplescreenrecorder-2024-11-18_20.06.47.mkv`
+
+[▶️ Ver vídeo](./image/projetoCard.mp4)
 
 > 💡 Reproduza esse vídeo localmente para ver o card em ação!
 
